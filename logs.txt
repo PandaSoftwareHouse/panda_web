@@ -1,0 +1,12 @@
+LOG
+== 2017-06-07 ==
+o Added Supplier Attendance module
+
+== 2017-06-21 ==
+o GR Controller
+o Update line 1374 ->
+
+== 2017-06-06 ==
+o GR module
+- check PO deliverydate. Filter it if deliverydate > today.
+
