@@ -15,7 +15,7 @@ class cyclecount_bytemplate_controller extends CI_Controller {
         $this->load->helper(array('form','url'));
         $this->load->helper('html');
         $this->load->database();
-        $this->load->library('form_validation');
+        $this->load->library('form_validation');dasdasd
 
 	}
 
